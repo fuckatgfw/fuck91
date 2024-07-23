@@ -28,7 +28,7 @@
 - `vid` 视频 ID
 - `key` 密钥（发邮件到 `fuckatgfw@protonmail.com` 获取）
 
-## 视频播放（轻点薅，没多少流量）
+## 视频播放
 
 **地址**: `https://play.lulutang.com/api/video_view`
 
