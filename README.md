@@ -15,7 +15,7 @@
 - `heat` 热度
 - `favorites` 收藏
 - `comments` 评论数
-- ·page· 页码
+- `page` 页码
 
 ## 获取 Token
 
