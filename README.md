@@ -7,7 +7,7 @@
 **请求方式**: `GET`
 
 **参数**:
-
+- `key` 密钥（发邮件到 `fuckatgfw@protonmail.com` 获取）
 - `title` 名称（支持模糊查询）
 - `vid` 视频 ID
 - `view_key` 官网视频 key
