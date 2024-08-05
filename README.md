@@ -30,7 +30,7 @@
 
 ## 视频播放
 
-**地址**: `https://play.lulutang.com/api/video_view`
+**地址**: `https://play.lulutang.com/videos/${vid}.mp4`
 
 **请求方式**: `GET`
 
