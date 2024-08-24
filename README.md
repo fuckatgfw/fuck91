@@ -7,7 +7,7 @@
 **请求方式**: `GET`
 
 **参数**:
-- `key` 密钥（发邮件到 `fuckatgfw@protonmail.com` 获取）
+- `key` 密钥（测试key：bf1b4275bc5046aaa5ff546ef5cbd9f0，正式key请发邮件到 `fuckatgfw@protonmail.com` 获取）
 - `title` 名称（支持模糊查询）
 - `vid` 视频 ID
 - `view_key` 官网视频 key
@@ -26,7 +26,7 @@
 **参数**:
 
 - `vid` 视频 ID
-- `key` 密钥（发邮件到 `fuckatgfw@protonmail.com` 获取）
+- `key` 密钥（测试key：bf1b4275bc5046aaa5ff546ef5cbd9f0，正式key请发邮件到 `fuckatgfw@protonmail.com` 获取）
 
 ## 视频播放
 
