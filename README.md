@@ -10,11 +10,7 @@
 - `key` 密钥（测试key：bf1b4275bc5046aaa5ff546ef5cbd9f0，正式key请发邮件到 `fuckatgfw@protonmail.com` 获取）
 - `title` 名称（支持模糊查询）
 - `vid` 视频 ID
-- `view_key` 官网视频 key
 - `add_time` 添加日期
-- `heat` 热度
-- `favorites` 收藏
-- `comments` 评论数
 - `page` 页码
 
 ## 获取 Token
