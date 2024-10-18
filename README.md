@@ -11,6 +11,7 @@
 - `title` 名称（支持模糊查询）
 - `vid` 视频 ID
 - `add_time` 添加日期
+- `author` 作者
 - `page` 页码
 
 ## 获取 Token
